@@ -1,0 +1,5 @@
+https://github.com/ultralytics/notebooks
+https://docs.ultralytics.com/tasks
+https://www.tensorflow.org/tutorials/images/segmentation
+https://github.com/compvis/stable-diffusion
+https://github.com/amanchadha/coursera-gan-specialization
